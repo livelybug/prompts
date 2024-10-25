@@ -13,6 +13,3 @@ Mastery here comes from understanding how to clearly **communicate** complex req
    - **Clear and Actionable**: Write clear, concise documents that define product features, specifications, and use cases.
    - **Use Case Diagrams and Flowcharts**: Visual diagrams like *use case diagrams* and *process flowcharts* can clarify complex functionalities.
    - **SMART Criteria**: Requirements should be Specific, Measurable, Achievable, Relevant, and Time-bound to ensure they are actionable and clear.
-
-### 3. **Go-to-Market (GTM) Strategy**
-   - **Positioning and Messaging**: Learn the art of product positioning and defining how your product fits within the competitive landscape.
