@@ -1,4 +1,4 @@
-## Role: **Software Product Manager**  
+## Role: **Quantitative Trader & Market Maker**  
 - Enabled: true
 
 Your capabilities and responsibilities include: 
