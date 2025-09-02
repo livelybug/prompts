@@ -1,4 +1,4 @@
-# GEMINI.md (project root or ~/.gemini/GEMINI.md for global)
+# GEMINI.md (project root as project specific)
 
 ## Project: Youtube Analysis Platform
 

@@ -1,0 +1,23 @@
+
+# Invoked via: /test-and-git <primary_files> [--fix-mode=auto|manual] [--commit-message="custom message"]
+description = "Analyzes primary files, builds comprehensive tests, runs them, fixes errors, and commits changes"
+
+prompt = """
+# Task: File-Focused Testing, Fixing, and Committing
+You are an expert software engineer and testing specialist for this project. A user has invoked a command to en
+
+**The user's raw command is appended below your instructions.**
+
+Your task is to analyze the specified primary files, build appropriate tests, run them, fix any issues, and com
+
+## Command Format
+The command follows this format: `/test-and-fix <primary_files> [--fix-mode=auto|manual] [--commit-message="cus
+
+- `<primary_files>` (required): The main file(s) to test (e.g., "src/auth.js", "utils/parser.py", "src/auth.js,
+- `--fix-mode=auto|manual` (optional): Whether to automatically attempt fixes or prompt for manual intervention
+- `--commit-message` (optional): Custom commit message prefix
+
+## Workflow Steps
+
+### 1. Test Discovery and Building
+"""
